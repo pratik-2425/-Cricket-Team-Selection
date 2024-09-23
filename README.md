@@ -25,5 +25,5 @@ __Usage__
 - Use the dashboards to select the best 12 players for each position based on their performance metrics.
 
   __Contact__
-For any questions or feedback, please contact Prince Kumar (Email:- dataaprince7@gmail.com).
+For any questions or feedback, please contact Pratik Patil (Email:- ppratik2425@gmail.com).
 
